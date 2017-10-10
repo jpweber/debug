@@ -30,3 +30,5 @@ kubectl run debug -ti --image=jpweber/kube-debug:latest --image-pull-policy=Alwa
 
 
 Have a bunch of fun!
+
+This was originally made by https://github.com/coresolve. Thought it was a great idea, but I wanted to maintain my own. 
